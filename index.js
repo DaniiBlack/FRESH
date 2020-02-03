@@ -1,2 +1,2 @@
-console.log('Kinder Kids')
+console.log('Hello world')
 
